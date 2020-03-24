@@ -1,0 +1,2 @@
+Python is a high level interpreted language which has advantages like easy syntax, involves less 
+code and a huge amount of additional open source libraries. We will be working on Python3 instead of Python2. 
